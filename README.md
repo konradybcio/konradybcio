@@ -1,12 +1,12 @@
-Welcome to my GitHub Profile!
+# Hello there! 👋🏻
 
-I'm a hobbyist Linux kernel / embedded developer.
+I'm Konrad, a 19 y/o hobbyist Linux kernel / embedded developer from Poland 🇵🇱.
 
 If you have a Qualcomm Snapdragon-powered device, I can probably make mainline Linux run on it! (or maybe I already did? 😉)
 
-Check out my (probably outdated) list of achievements over at konradybcio.pl/mywork!
+I'm a Reviewer for the linux-arm-msm project. I am also one of the folks that got Linux running on the 🍎 iDevices!
 
-I'm a Reviewer for the linux-arm-msm project.
+Check out my (probably outdated) list of achievements over at [konradybcio.pl/mywork](https://konradybcio.pl/mywork)!
 
 If you appreciate my work, you can support me over at ko-fi:
 
