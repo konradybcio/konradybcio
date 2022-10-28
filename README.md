@@ -8,7 +8,7 @@ I'm a Reviewer for the linux-arm-msm project. I am also one of the folks that go
 
 Check out my (infrequently updated) list of achievements over at [konradybcio.pl/mywork](https://konradybcio.pl/mywork)!
 
-I push most of my Linux work to the repos at @SoMainline.
+I push most of my Linux work to the repos at [@SoMainline](https://github.com/SoMainline/).
 
 If you appreciate my work, you can support me over at Ko-fi:
 
