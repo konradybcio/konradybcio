@@ -1,15 +1,11 @@
 # Hello there! 👋🏻
 
-I'm Konrad, a 19 y/o hobbyist Linux kernel / embedded developer from Poland 🇵🇱.
+I'm Konrad, a 20 y/o Linux kernel / embedded developer from Poland 🇵🇱.
 
 If you have a Qualcomm Snapdragon-powered device, I can probably make mainline Linux run on it! (or maybe I already did? 😉)
 
-I'm a Reviewer for the linux-arm-msm project. I am also one of the folks that got Linux running on the 🍎 iDevices!
+I'm a Co-maintainer for the linux-arm-msm project. I am also one of the folks that got Linux running on the 🍎 iDevices!
 
-Check out my (infrequently updated) list of achievements over at [konradybcio.pl/mywork](https://konradybcio.pl/mywork)!
+Check out my (very infrequently updated) list of achievements over at [konradybcio.pl/mywork](https://konradybcio.pl/mywork)!
 
-I push most of my Linux work to the repos at [@SoMainline](https://github.com/SoMainline/).
-
-If you appreciate my work, you can support me over at Ko-fi:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2FNZ3O)
+I push most of my Linux work straight to [linux-arm-msm](https://lore.kernel.org/linux-arm-msm/), my WIP patches often get pushed to [@SoMainline/linux](https://github.com/SoMainline/linux/commits/konrad/longbois-next).
